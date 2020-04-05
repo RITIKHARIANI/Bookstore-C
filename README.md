@@ -1,5 +1,6 @@
 # Bookstore-C
 This is a simulation of a bookstore made in Turbo C++.
+(This C++ version is now outdated)
 
 ## Features
 1. Login/Signup
