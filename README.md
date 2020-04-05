@@ -1,4 +1,4 @@
-# Bookstore-C-
+# Bookstore-C
 This is a simulation of a bookstore made in Turbo C++.
 
 ## Features
